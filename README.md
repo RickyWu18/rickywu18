@@ -1,4 +1,4 @@
-### Hello! I go by Ricky Wu, or Wu Po-Hsun, and I come from Taiwan. 👋
+# Hello! I go by Ricky Wu, or Wu Po-Hsun, and I come from Taiwan. 👋
 
 <!--
 **RickyWu18/rickywu18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

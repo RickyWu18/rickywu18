@@ -6,4 +6,4 @@ A UAV engineer focused on:
 - **Simulation**: FlightGear, JSBSim
 
 ### Projects
-- [PlotJuggler Plugin for Drone](https://github.com/RickyWu18/plotjuggler-drone)
+- [PlotJuggler Plugin for Drone](https://github.com/RickyWu18/plotjuggler-drone): Analyze and visualize drone flight data
